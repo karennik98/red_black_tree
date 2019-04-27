@@ -1,0 +1,16 @@
+
+main/.vs/red_black_tree/v15/.suo
+*.db
+*.exe
+*.ilk
+*.pdb
+*.log
+*.obj
+*.pch
+*.tlog
+*.ipch
+*.idb
+*.vcxproj
+*.filters
+*.user
+main/red_black_tree.sln
